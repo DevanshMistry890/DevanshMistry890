@@ -11,6 +11,10 @@ This project integrates Simple Linear Regression With scikit-learn packages.
 * **Input:** Manual set of values
 * **Output:** Predicted ouput
 
+# Project 2: Real Time linear-regression Exmples
+
+This project shows dealing with regression & real time data like  Boston Housing
+* **Python libraries used:** Numpy, sklearn, Pandas, seaborn
 
 <!---
 DevanshMistry890/DevanshMistry890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

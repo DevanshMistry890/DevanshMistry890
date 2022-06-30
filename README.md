@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/devansh-vinodkumar-mistry-9bb2611aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-vinodkumar-mistry-9bb2611aa/" height="30" width="40" /></a>
 <a href="https://kaggle.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanshmistry" height="30" width="40" /></a>
 <a href="https://dribbble.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devanshmistry" height="30" width="40" /></a>
-<a href="https://docs.microsoft.com/en-us/users/devanshvinodkumarmistry-3346/achievements" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devanshmistry" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/users/devanshvinodkumarmistry-3346/achievements" target="blank"><img align="center" src="https://raw.githubusercontent.com/DevanshMistry890/readme-stuff/main/Microsoft_logo.svg" alt="devanshmistry" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

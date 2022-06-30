@@ -11,6 +11,7 @@
 <a href="https://kaggle.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanshmistry" height="30" width="40" /></a>
 <a href="https://dribbble.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devanshmistry" height="30" width="40" /></a>
 <a href="https://docs.microsoft.com/en-us/users/devanshvinodkumarmistry-3346/achievements" target="blank"><img align="center" src="https://raw.githubusercontent.com/DevanshMistry890/readme-stuff/main/Microsoft_logo.svg" alt="devanshmistry" height="30" width="40" /></a>
+<a href="https://developers.google.com/profile/u/devanshmistry" target="_blank"><img align="center" src="https://raw.githubusercontent.com/DevanshMistry890/readme-stuff/main/Microsoft_logo.svg" alt="devanshmistry" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

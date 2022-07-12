@@ -19,12 +19,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshmistry890&show_icons=true&locale=en&layout=compact" alt="devanshmistry890" /></p>
 
 
-# Project 1: Simple Linear Regression in Python
+# Project 1: Adult Census Prediction System
 
-This project integrates Simple Linear Regression With scikit-learn packages.
-* **Python libraries used:** Numpy, sklearn
-* **Input:** Manual set of values
-* **Output:** Predicted ouput
+This project integrates binary classification problem with deployment.
+* **Python libraries used:** Numpy, sklearn Flask Pandas imblearn 
+* **Input:** UCI Adult Dataset
+* **Output:** Class ouput
 
 # Project 2: Real Time linear-regression Exmples
 

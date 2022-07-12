@@ -26,10 +26,10 @@ This project integrates binary classification problem with deployment.
 * **Input:** UCI Adult Dataset
 * **Output:** Class ouput
 
-# Project 2: Real Time linear-regression Exmples
+# Project 2: Iris Flower Classification System
 
-This project shows dealing with regression & real time data like  Boston Housing
-* **Python libraries used:** Numpy, sklearn, Pandas, seaborn
+This project is a very popular machine learning classification project with deployment.
+* **Python libraries used:** Numpy, sklearn, Pandas, Flask
 
 
 

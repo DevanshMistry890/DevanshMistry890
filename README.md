@@ -24,7 +24,7 @@
 This project integrates binary classification problem with deployment.
 * **Python libraries used:** Numpy, sklearn Flask Pandas imblearn 
 * **Input:** UCI Adult Dataset
-* **Output:** Class ouput
+* **Output:** Class output
 
 # Project 2: Iris Flower Classification System
 

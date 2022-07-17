@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devansh-vinodkumar-mistry-9bb2611aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-vinodkumar-mistry-9bb2611aa/" height="30" width="40" /></a>
-<a href="https://kaggle.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanshmistry" height="30" width="40" /></a>
-<a href="https://dribbble.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devanshmistry" height="30" width="40" /></a>
 <a href="https://docs.microsoft.com/en-us/users/devanshvinodkumarmistry-3346/achievements" target="blank"><img align="center" src="https://raw.githubusercontent.com/DevanshMistry890/readme-stuff/main/Microsoft_logo.svg" alt="devanshmistry" height="30" width="40" /></a>
 <a href="https://g.dev/devanshmistry" target="_blank"><img align="center" src="https://raw.githubusercontent.com/DevanshMistry890/readme-stuff/main/google-developers-1.svg" alt="devanshmistry" height="30" width="40" /></a>
+<a href="https://kaggle.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="devanshmistry" height="30" width="40" /></a>
+<a href="https://dribbble.com/devanshmistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devanshmistry" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,13 +25,23 @@ This project integrates binary classification problem with deployment.
 * **Python libraries used:** Numpy, sklearn Flask Pandas imblearn 
 * **Input:** UCI Adult Dataset
 * **Output:** Class output
+* **Deployment:** Ms Azure Flask Web App
 
 # Project 2: Iris Flower Classification System
 
 This project is a very popular machine learning classification project with deployment.
 * **Python libraries used:** Numpy, sklearn, Pandas, Flask
+* **Input:** sklearn Dataset
+* **Output:** Class output
+* **Deployment:** Ms Azure Flask Web App
 
+# Project 3: Campus Placement Prediction System **(In-development)**
 
+This project integrates binary classification problem with deployment.
+* **Python libraries used:** Numpy, sklearn, Pandas, Flask
+* **Input:** dataset by QuantumAI
+* **Output:** Class output
+* **Deployment:** Ms Azure Flask Web App 
 
 <!---
 DevanshMistry890/DevanshMistry890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

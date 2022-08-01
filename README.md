@@ -41,7 +41,7 @@ This project integrates binary classification problem with deployment.
 * **Python libraries used:** Numpy, sklearn, Pandas, Flask
 * **Input:** dataset by QuantumAI
 * **Output:** Class output
-* **Deployment:** Ms Azure Flask Web App 
+* **Deployment:** Ms Azure Flask Web App with **Docker Container**
 
 <!---
 DevanshMistry890/DevanshMistry890 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

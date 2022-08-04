@@ -22,7 +22,7 @@
 # Project 1: Adult Census Prediction System
 
 This project integrates binary classification problem with deployment.
-* **Python libraries used:** Numpy, sklearn Flask Pandas imblearn 
+* **Libraries used:** Numpy, sklearn Flask Pandas imblearn 
 * **Input:** UCI Adult Dataset
 * **Output:** Class output
 * **Deployment:** Ms Azure Flask Web App
@@ -30,7 +30,7 @@ This project integrates binary classification problem with deployment.
 # Project 2: Iris Flower Classification System
 
 This project is a very popular machine learning classification project with deployment.
-* **Python libraries used:** Numpy, sklearn, Pandas, Flask
+* **Libraries used:** Numpy, sklearn, Pandas, Flask
 * **Input:** sklearn Dataset
 * **Output:** Class output
 * **Deployment:** Ms Azure Flask Web App
@@ -38,7 +38,7 @@ This project is a very popular machine learning classification project with depl
 # Project 3: Campus Placement Prediction System **(In-development)**
 
 This project integrates binary classification problem with deployment.
-* **Python libraries used:** Numpy, sklearn, Pandas, Flask
+* **Libraries used:** Numpy, sklearn, Pandas, Flask
 * **Input:** dataset by QuantumAI
 * **Output:** Class output
 * **Deployment:** Ms Azure Flask Web App with **Docker Container**

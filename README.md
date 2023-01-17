@@ -35,7 +35,7 @@ This project is a very popular machine learning classification project with depl
 * **Output:** Class output
 * **Deployment:** Ms Azure Flask Web App
 
-# Project 3: Campus Placement Prediction System **(In-development)**
+# Project 3: Campus Placement Prediction System
 
 This project integrates binary classification problem with deployment.
 * **Libraries used:** Numpy, sklearn, Pandas, Flask

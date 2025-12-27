@@ -28,14 +28,15 @@ Skills: Model Training, MLOps, Data Pipelines
 
 ---
 
-## 🧪 The AI Stack
+### 🧪 The AI Stack
+*My core toolkit for extracting insights and building intelligence.*
 
-| Core AI / ML | Data Ops & Cloud | Deployment |
-|-------------|-----------------|------------|
-| Python | Azure ML | Docker |
-| TensorFlow | SQL | FastAPI |
-| Scikit-learn | Pandas | Next.js |
-| Hugging Face | MLflow | Flask |
+| **Core AI/ML** | **Data Ops & Cloud** | **Deployment (The Engineering Layer)** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
+| ![Transformers](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![MLflow](https://img.shields.io/badge/-MLOps-0194E2?style=flat&logo=mlflow&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
 
 ---
 

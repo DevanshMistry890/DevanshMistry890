@@ -15,9 +15,9 @@ I am a **Machine Learning Engineer** focused on bridging the gap between researc
 ## 🏆 Certifications
 
 <p align="left">
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-ai-engineer-associate.png" width="110" alt="Azure AI Engineer Associate"/>
+  <img src="https://images.credly.com/images/61f56aa4-16fd-403c-90bc-1d90dba1fa99/twitter_thumb_201604_image.png" width="110" alt="Azure AI Engineer Associate"/>
   &nbsp;&nbsp;
-  <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-azure-data-scientist-associate.png" width="110" alt="Azure Data Scientist Associate"/>
+  <img src="https://images.credly.com/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/twitter_thumb_201604_azure-data-scientist-associate-600x600.png" width="110" alt="Azure Data Scientist Associate"/>
 </p>
 
 **Azure AI Engineer Associate (AI-102)**  

@@ -68,12 +68,13 @@ A Retrieval-Augmented Generation system that creates personalized recipe recomme
 ---
 
 ### 3. Adult Census Income Prediction
-**Focus:** End-to-End MLOps, Azure Deployment, Explainable AI  
+**Focus:** Full Stack AI, Edge Computing, Explainable AI  
 
-A complete ML pipeline for income classification using US Census data.
+A dual-architecture ML system (Cloud + Edge) for income classification using US Census data.
 
-- Integrated Explainable AI for compliance and interpretability  
-- Tech: Scikit-learn, Flask, Azure App Service, Docker  
+- Engineered a Serverless Edge AI pipeline using ONNX & WebAssembly, enabling privacy-preserving, zero-latency inference in the browser.
+- Implemented WebSHAP for real-time, client-side model interpretability and FastAPI for robust backend microservices.
+- Tech: Serverless Edge AI (WASM), XGBoost, React, FastAPI, Docker, Azure, WebSHAP 
 
 🔗 https://github.com/DevanshMistry890/Adult-Census-Income-Prediction  
 

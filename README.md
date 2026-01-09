@@ -42,7 +42,19 @@ Skills: Model Training, MLOps, Data Pipelines
 
 ## 🚀 Featured Engineering Projects
 
-### 1. Edge AI NLP Analyzer (2025)
+### 1. Gemini Voice RAG Agent (2026)
+**Focus:** Real-Time Orchestration, Event-Driven Architecture, Local RAG
+
+A production-grade voice orchestrator designed to automate complex hospitality workflows, bridging generative conversation with deterministic business logic.
+
+- **<500ms Latency:** Engineered a high-throughput voice pipeline using EdgeTTS and Gemini 2.0 Flash Lite for near-instant responses.
+- **Hybrid Intelligence:** Dynamically routes user intent between **Tool Calling** (Booking System), **Vector Search** (ChromaDB for Policy RAG), and General Chat.
+- **Event-Driven CRM:** Implemented an asynchronous logging pipeline that syncs structured call summaries to Google Sheets without blocking the UI thread.
+- **Tech:** Next.js, FastAPI, Gemini 2.5 Flash, ChromaDB, EdgeTTS, WebSockets
+
+🔗 https://github.com/DevanshMistry890/hotel-voice-agent  
+
+### 2. Edge AI NLP Analyzer (2025)
 **Focus:** Edge Computing, Privacy, Transformers.js  
 
 A privacy-first sentiment analysis tool that runs **entirely in the browser**.
@@ -55,7 +67,7 @@ A privacy-first sentiment analysis tool that runs **entirely in the browser**.
 
 ---
 
-### 2. Intelligent Recipe RAG System (2024)
+### 3. Intelligent Recipe RAG System (2024)
 **Focus:** Generative AI, Vector Search, RAG  
 
 A Retrieval-Augmented Generation system that creates personalized recipe recommendations.
@@ -64,19 +76,6 @@ A Retrieval-Augmented Generation system that creates personalized recipe recomme
 - Tech: Google Gemini API, MongoDB Atlas Vector Search, Next.js  
 
 🔗 https://github.com/DevanshMistry890/recipebook  
-
----
-
-### 3. Adult Census Income Prediction
-**Focus:** Full Stack AI, Edge Computing, Explainable AI  
-
-A dual-architecture ML system (Cloud + Edge) for income classification using US Census data.
-
-- Engineered a Serverless Edge AI pipeline using ONNX & WebAssembly, enabling privacy-preserving, zero-latency inference in the browser.
-- Implemented WebSHAP for real-time, client-side model interpretability and FastAPI for robust backend microservices.
-- Tech: Serverless Edge AI (WASM), XGBoost, React, FastAPI, Docker, Azure, WebSHAP 
-
-🔗 https://github.com/DevanshMistry890/Adult-Census-Income-Prediction  
 
 ---
 

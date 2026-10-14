@@ -2,13 +2,12 @@
 
 ### 🧠 Data Scientist | 🤖 AI Engineer | ☁️ Azure Certified
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devanshmistry890&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DevanshMistry890)
 
-I am a **Machine Learning Engineer** focused on bridging the gap between research models and real-world applications. With a strong foundation in **Azure AI** and **Statistical Modeling**, I build scalable AI systems—from training custom LLMs to deploying them on edge devices or modern web architectures.
+I am an **AI Application Engineer and Data Scientist** focused on building performant and reliable LLM applications that drive business efficiency. Specialized in designing complex **Agentic AI flows**, integrating **Real-Time Voice Agents**, and deploying scalable **Retrieval-Augmented Generation (RAG)** pipelines and **MLOps observability** into modern web environments.
 
-- 🔭 **Current Focus:** GraphRAG, Local LLM Agents, Privacy-first Edge AI  
-- 💼 **Experience:** Former Data Scientist Intern at **iNeuron.ai** and ML Intern at **F(x) Data Labs**  
-- ☁️ **Cloud Native:** Model deployment using Docker and Azure App Services  
+- 🔭 **Current Focus:** Multi-Agent Orchestration, Voice AI, Strict-CAG / RAG Pipelines, & AI Observability, Privacy-first Edge AI  
+- 💼 **Experience:** AI/ML Evaluator Specialist at **Mercor** (2026), Former Data Scientist Intern at **iNeuron.ai**, and ML Intern at **F(x) Data Labs**
+- ☁️ **Cloud & MLOps:** Azure AI Foundry, GCP (Vertex AI), Docker, CI/CD for ML, & Local LLM Deployment
 
 ---
 
@@ -29,59 +28,89 @@ Skills: Model Training, MLOps, Data Pipelines
 ---
 
 ### 🧪 The AI Stack
-*My core toolkit for extracting insights and building intelligence.*
+*My core toolkit for architecting, evaluating, and deploying production AI systems.*
 
-| **Core AI/ML** | **Data Ops & Cloud** | **Deployment (The Engineering Layer)** |
+| **Generative AI & LLMs** | **Data Ops & Cloud** | **Engineering & MLOps** |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure%20ML-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
-| ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
-| ![Transformers](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![MLflow](https://img.shields.io/badge/-MLOps-0194E2?style=flat&logo=mlflow&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) |
+| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/-Azure%20AI-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| ![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB%20Vector-47A248?style=flat&logo=mongodb&logoColor=white) | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
+| ![Transformers](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black) | ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) |
+| ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+
+---
+## 🚀 Featured Engineering Projects
+
+### 1. Tenant-Defender — Zero-Hallucination Legal AI (2026)
+**Focus:** Strict Cache-Augmented Generation (CAG), Agentic OCR, Legal Grounding
+
+Built for **GenAI Genesis 2026** to protect Ontario renters from bad-faith eviction notices with strict statutory grounding.
+
+- **Zero-Hallucination Architecture:** Combines Strict-CAG and Agentic OCR to parse and validate Ontario tenancy documents against statutory law.
+- **Deterministic Validation:** Engineered automated document parsing pipelines to flag compliance errors without speculative LLM hallucination.
+- **Tech:** TypeScript, Next.js, FastAPI, Gemini API, Strict-CAG
+
+🔗 https://github.com/DevanshMistry890/tenant-defender  
 
 ---
 
-## 🚀 Featured Engineering Projects
+### 2. Real-Time AI Voice Agent (2025)
+**Focus:** Real-Time Voice Orchestration, Bidirectional Streaming, Low-Latency VAD
 
-### 1. Gemini Voice RAG Agent (2026)
-**Focus:** Real-Time Orchestration, Event-Driven Architecture, Local RAG
+A high-speed conversational voice agent architected for real-time customer support and hospitality workflows.
 
-A production-grade voice orchestrator designed to automate complex hospitality workflows, bridging generative conversation with deterministic business logic.
-
-- **<500ms Latency:** Engineered a high-throughput voice pipeline using EdgeTTS and Gemini 2.0 Flash Lite for near-instant responses.
-- **Hybrid Intelligence:** Dynamically routes user intent between **Tool Calling** (Booking System), **Vector Search** (ChromaDB for Policy RAG), and General Chat.
-- **Event-Driven CRM:** Implemented an asynchronous logging pipeline that syncs structured call summaries to Google Sheets without blocking the UI thread.
-- **Tech:** Next.js, FastAPI, Gemini 2.5 Flash, ChromaDB, EdgeTTS, WebSockets
+- **Low-Latency Orchestration:** Engineered the orchestration layer to handle voice-activity-detection (VAD), interruption handling, TTS/STT synchronization, and tool-calling.
+- **Bidirectional Audio Streaming:** Deployed a custom WebSocket server to stream audio in real time with human-like responsiveness.
+- **Tech:** Python, Gemini AI, ElevenLabs / EdgeTTS, Twilio / WebSockets, ChromaDB
 
 🔗 https://github.com/DevanshMistry890/hotel-voice-agent  
 
-### 2. Edge AI NLP Analyzer (2025)
-**Focus:** Edge Computing, Privacy, Transformers.js  
+---
 
-A privacy-first sentiment analysis tool that runs **entirely in the browser**.
+### 3. Smart Recipe Retrieval — Production RAG System (2025)
+**Focus:** Vector Search, Semantic Retrieval, Context Engineering
 
-- Runs quantized ONNX models locally  
-- Zero backend, zero latency, zero data leakage  
-- Tech: Transformers.js, React, Web Workers  
+A production Retrieval-Augmented Generation (RAG) system that delivers personalized, context-grounded culinary recommendations.
 
-🔗 https://github.com/DevanshMistry890/edge-nlp-analyzer  
+- **Vector Search Pipeline:** Built an end-to-end RAG architecture using MongoDB Atlas Vector Search and Google Gemini LLM.
+- **Hallucination Reduction:** Implemented semantic retrieval and prompt optimization to maximize contextual accuracy.
+- **Tech:** Python, MongoDB Atlas Vector Search, Gemini API, Next.js
+
+🔗 https://github.com/DevanshMistry890/recipebook  
 
 ---
 
-### 3. Intelligent Recipe RAG System (2024)
-**Focus:** Generative AI, Vector Search, RAG  
+### 4. Agent-scope — AI Observability Platform (2025)
+**Focus:** LLM Observability, Agent Routing Telemetry, MLOps Cost & Risk Tracking
 
-A Retrieval-Augmented Generation system that creates personalized recipe recommendations.
+A client-side agent observability and chaos-testing platform designed to monitor multi-step LLM execution flows in real time.
 
-- Reduces hallucinations using vector-grounded responses  
-- Tech: Google Gemini API, MongoDB Atlas Vector Search, Next.js  
+- **Execution & Drift Telemetry:** Monitors LLM application performance, tracks agent routing decisions, and visualizes real-time execution graphs.
+- **MLOps Cost & Risk Mitigation:** Established foundational tracking capabilities to analyze token cost optimization and failure modes across complex agent workflows.
+- **Tech:** TypeScript, React, WebGPU, MLOps
 
-🔗 https://github.com/DevanshMistry890/recipebook  
+🔗 https://github.com/DevanshMistry890/Agent-scope  
+
+---
+
+### 5. Autonomous B2B Procurement Agent (2026)
+**Focus:** Multi-Step Agentic Workflows, Local LLMs, Deterministic Tool Calling
+
+An autonomous B2B procurement and contract negotiation system built for privacy-sensitive enterprise workflows.
+
+- **Stateful Multi-Agent Negotiation:** Orchestrates multi-step procurement and vendor negotiation flows using the Google AI Agent SDK.
+- **Privacy-First Execution:** Integrates open-source local LLMs and deterministic backend tool abstractions within a Next.js microservices architecture.
+- **Tech:** Google AI Agent SDK, Next.js, Local LLMs
+
+🔗 https://github.com/DevanshMistry890/b2b-autonomous-negotiator  
 
 ---
 
 ## 🤝 Connect
 
 <p align="left">
+  <a href="https://devanshmistry890.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+  </a>
   <a href="https://linkedin.com/in/devansh-mistry/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>

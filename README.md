@@ -40,7 +40,7 @@ Skills: Model Training, MLOps, Data Pipelines
 ---
 ## 🚀 Featured Engineering Projects
 
-### 1. Tenant-Defender — Zero-Hallucination Legal AI (2026)
+### 1. Tenant-Defender Zero-Hallucination Legal AI (2026)
 **Focus:** Strict Cache-Augmented Generation (CAG), Agentic OCR, Legal Grounding
 
 Built for **GenAI Genesis 2026** to protect Ontario renters from bad-faith eviction notices with strict statutory grounding.
@@ -66,7 +66,7 @@ A high-speed conversational voice agent architected for real-time customer suppo
 
 ---
 
-### 3. Smart Recipe Retrieval — Production RAG System (2025)
+### 3. Smart Recipe Retrieval  Production RAG System (2025)
 **Focus:** Vector Search, Semantic Retrieval, Context Engineering
 
 A production Retrieval-Augmented Generation (RAG) system that delivers personalized, context-grounded culinary recommendations.
@@ -79,7 +79,7 @@ A production Retrieval-Augmented Generation (RAG) system that delivers personali
 
 ---
 
-### 4. Agent-scope — AI Observability Platform (2025)
+### 4. Agent-scope  AI Observability Platform (2025)
 **Focus:** LLM Observability, Agent Routing Telemetry, MLOps Cost & Risk Tracking
 
 A client-side agent observability and chaos-testing platform designed to monitor multi-step LLM execution flows in real time.
